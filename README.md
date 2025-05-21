@@ -40,14 +40,8 @@ gcc filename.c -o output
 👨‍💻 About Me
 Md. Ferdous Foysal Hridoy
 🎓 Student, CSE – Daffodil International University
-📧 Email: [ffoysalhridoy@gmail.com]
+📧 Email: ffoysalhridoy@gmail.com
 🌐 GitHub: foysalhridoy
-
 
 ---
 
-### ✅ Final Steps for You:
-- Replace the placeholders (foysalhridoy, `ffoysalhridoy@gmail.com `) with your actual details.
-- Download a GIF of the C language (e.g., from Google) and name it c-language.gif inside the images/ folder.
-
-Let me know if you'd like this saved as a real file or want help choosing a cool C-language-themed GIF.
