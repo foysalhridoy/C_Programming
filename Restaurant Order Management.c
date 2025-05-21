@@ -10,7 +10,7 @@ struct Order {
     struct Order *next;         // Pointer to the next order in the list
 };
 
-// Function to create a new Order node
+// Function to create a new Order nodes
 struct Order* createOrder(int orderID, char *customerName, char *orderDetails) {
     // Allocate memory for a new Order node
     struct Order *newOrder = (struct Order*)malloc(sizeof(struct Order));
