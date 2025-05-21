@@ -28,35 +28,35 @@ A cool visual representing of a cool programmer Hridoy Bro!
 ---
 
 ## 📁 Folder Structure:
-- C-Projects/
-- Basics/
+- C-Projects
+- Basics
 - hello_world.c
 - input_output.c
 - variables.c
-- Control_Statements/
+- Control_Statements
 - if_else.c
 - switch_case.c
 - nested_conditions.c
-- Loops/
+- Loops
 - for_loop.c
 - while_loop.c
 - pattern_printing.c
-- Functions/
+- Functions
 - simple_function.c
 - recursion.c
 - parameter_passing.c
-- Arrays_and_Strings/
+- Arrays_and_Strings
 - array_sum.c
 - string_length.c
 - matrix_operations.c
-- Pointers/
+- Pointers
 - pointer_basics.c
 - pointer_to_array.c
 - pointer_arithmetic.c
-- Structures/
+- Structures
 - structure_example.c
 - nested_struct.c
-- File_Handling/
+- File_Handling
 - file_read_write.c
 - file_append.c
 
