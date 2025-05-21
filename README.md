@@ -27,6 +27,24 @@ A cool visual representing of a cool programmer Hridoy Bro!
 
 ---
 
+LibraryManagementSystem/
+├── src/
+│   ├── Main.c
+│   ├── Basic_codes.c
+│   ├── Member_projects.c
+│   ├── Library.c
+│   └── GUI/
+│       ├── Dashboard.c
+│       ├── BookForm.c
+│       ├── IssueBookForm.c
+│       └── ReturnBookForm.c
+├── data/
+│   ├── books.txt
+│   └── members.txt
+└── README.md
+
+---
+
 ## 🚀 How to Run Code
 
 1. *Clone this repo*:
