@@ -15,23 +15,14 @@ A cool visual representing of a cool programmer Hridoy Bro!
 
 ## 📁 Folder Structure
 C-Programming-Sem1-Sem2/
-
 ├── Semester-1/
-
 │ ├── Basic_Codes/
-
 │ └── Projects/
-
 ├── Semester-2/
-
 │ ├── Advanced_Codes/
-
 │ └── Projects/
-
 ├── images/
-
 │ └── c-language.gif
-
 └── README.md
 
 ---
