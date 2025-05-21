@@ -27,21 +27,38 @@ A cool visual representing of a cool programmer Hridoy Bro!
 
 ---
 
-LibraryManagementSystem/
-├── src/
-│   ├── Main.c
-│   ├── Basic_codes.c
-│   ├── Member_projects.c
-│   ├── Library.c
-│   └── GUI/
-│       ├── Dashboard.c
-│       ├── BookForm.c
-│       ├── IssueBookForm.c
-│       └── ReturnBookForm.c
-├── data/
-│   ├── books.txt
-│   └── members.txt
-└── README.md
+## 📁 Folder Structure:
+- C-Projects/
+- Basics/
+- hello_world.c
+- input_output.c
+- variables.c
+- Control_Statements/
+- if_else.c
+- switch_case.c
+- nested_conditions.c
+- Loops/
+- for_loop.c
+- while_loop.c
+- pattern_printing.c
+- Functions/
+- simple_function.c
+- recursion.c
+- parameter_passing.c
+- Arrays_and_Strings/
+- array_sum.c
+- string_length.c
+- matrix_operations.c
+- Pointers/
+- pointer_basics.c
+- pointer_to_array.c
+- pointer_arithmetic.c
+- Structures/
+- structure_example.c
+- nested_struct.c
+- File_Handling/
+- file_read_write.c
+- file_append.c
 
 ---
 
