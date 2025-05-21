@@ -25,7 +25,6 @@ C-Programming-Sem1-Sem2/
 │ └── c-language.gif
 └── README.md
 
-
 ---
 
 ## ✅ Topics Covered
