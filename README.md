@@ -67,16 +67,14 @@ A cool visual representing of a cool programmer Hridoy Bro!
 1. *Clone this repo*:
    ```bash
    git clone https://github.com/foysalhridoy/C-Programming.git
-gcc filename.c -o output
-./output
+
+---
+## 🤝 Connect with Me
+
+* 📧 Email: [ffoysalhridoy@gmail.com](mailto:ffoysalhridoy@gmail.com)  
+* 💼 LinkedIn: [md-ferdous-foysal-hridoy](https://www.linkedin.com/in/md-ferdous-foysal-hridoy-43758a319/)  
+* 🐙 GitHub: [foysalhridoy](https://github.com/foysalhridoy)
 
 ---
 
-👨‍💻 About Me
-Md. Ferdous Foysal Hridoy
-🎓 Student, CSE – Daffodil International University
-📧 Email: ffoysalhridoy@gmail.com
-🌐 GitHub: foysalhridoy
-
----
-
+⭐ If you find this repository helpful, don’t forget to give it a star!
