@@ -62,13 +62,24 @@ A cool visual representing of a cool programmer Hridoy Bro!
 
 ---
 
-## 🚀 How to Run Code
+## 📊 Badges
 
-1. *Clone this repo*:
-   ```bash
-   git clone https://github.com/foysalhridoy/C-Programming.git
+![GitHub Repo stars](https://img.shields.io/github/stars/foysalhridoy/C_Programming?style=social)
+![GitHub forks](https://img.shields.io/github/forks/foysalhridoy/C_Programming?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/foysalhridoy/C_Programming)
+![GitHub language count](https://img.shields.io/github/languages/count/foysalhridoy/C_Programming)
+![GitHub top language](https://img.shields.io/github/languages/top/foysalhridoy/C_Programming)
 
 ---
+
+## 📈 Contribution Graph
+
+This repository will grow with my continuous practice. Stay tuned for updates! 🌱  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=foysalhridoy&theme=github-compact)
+
+---
+
 ## 🤝 Connect with Me
 
 * 📧 Email: [ffoysalhridoy@gmail.com](mailto:ffoysalhridoy@gmail.com)  
